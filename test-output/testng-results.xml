@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12522" started-at="2016-05-07T20:47:17Z" finished-at="2016-05-07T20:47:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12522" started-at="2016-05-07T20:47:17Z" finished-at="2016-05-07T20:47:30Z">
+      <class name="practicalSeExample.GoogleLogin">
+        <test-method status="PASS" signature="login()[pri:0, instance:practicalSeExample.GoogleLogin@2f7c7260]" name="login" duration-ms="12488" started-at="2016-05-08T02:17:17Z" finished-at="2016-05-08T02:17:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- practicalSeExample.GoogleLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

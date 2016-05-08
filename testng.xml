@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="practice">
+ 	<listeners>
+		<listener class-name="practicalSeExample.ListenersTestNG"></listener>
+	</listeners> 
+	<test name="sampleTest1">
+		<classes>
+			<class name="practicalSeExample.GoogleLogin">
+			</class>
+		</classes>
+	
+	</test>
+
+
+</suite>
