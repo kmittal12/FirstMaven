@@ -32,7 +32,7 @@ public class GoogleLogin {
 
 	@AfterTest
 	public void closebrowser() {
-		
+		// Quits browser
 		driver.quit();
 	}
 
