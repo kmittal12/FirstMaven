@@ -14,7 +14,11 @@ public class GoogleLogin {
 
 	@BeforeTest
 	public void openurl() {
+
+
+//Create driver for firefox browser
 //adding comment at same points
+
 		driver = new FirefoxDriver();
 		driver.get("https://accounts.google.com/ServiceLogin?service=mail&continue=https://mail.google.com/mail/#identifier");
 
