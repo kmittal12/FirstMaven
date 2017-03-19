@@ -14,7 +14,7 @@ public class GoogleLogin {
 
 	@BeforeTest
 	public void openurl() {
-//adding comment at same point
+//adding comment at same points
 		driver = new FirefoxDriver();
 		driver.get("https://accounts.google.com/ServiceLogin?service=mail&continue=https://mail.google.com/mail/#identifier");
 
